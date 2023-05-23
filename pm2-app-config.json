@@ -9,7 +9,7 @@
         {
             "name": "Chatbot_backend",
             "cwd": "/root/openai_chatbot/Chatbot_backend",
-            "interpreter": "python",
+            "interpreter": "/usr/bin/python3",
             "script": "main.py"
         }
     ]
