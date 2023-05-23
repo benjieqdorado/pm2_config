@@ -1,0 +1,15 @@
+{
+    "apps" : [
+        {
+            "name" :"Chatbot_frontend",
+            "cwd" : "/root/openai_chatbot/Chatbot_frontend",
+            "script": "pages/index.js"
+        },
+        {
+            "name": "Chatbot_backend",
+            "cwd": "/root/openai_chatbot/Chatbot_backend",
+            "script": "main.py"
+
+        }
+    ]
+}
